@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trade-Offf&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trade-Offf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=[Trade-Offf])](https://github.com/[Trade-Offf])
