@@ -8,8 +8,6 @@
 
 <h1 align="center">Hi, I'm Trade-Offf 🌊</h1>
 
-<p align="center"><em>Ignite the soul, surge the world</em></p>
-
 <p align="center">
   Frontend / AI product tools / Edge & Web experiments<br/>
   前端 · AI 产品工具 · 边缘与 Web 实验<br/>
@@ -71,4 +69,4 @@
 
 ---
 
-<p align="center"><i>Shipping small products. Learning in public.<br/>做小产品，公开学习。</i></p>
+<p align="center"><i>Ignite the soul, surge the world 🌊<br/>点燃灵魂，激荡世界</i></p>
