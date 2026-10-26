@@ -10,7 +10,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=680&lines=Ignite+the+soul%2C+surge+the+world;Building+pupbrief+%26+Next+TODO;Frontend+%C2%B7+AI+products+%C2%B7+Edge" alt="Typing" />
-  
+</p>
+
+<p align="center">
   Frontend / AI product tools / Edge & Web experiments<br/>
   前端 · AI 产品工具 · 边缘与 Web 实验<br/>
   Hangzhou · Building in public
